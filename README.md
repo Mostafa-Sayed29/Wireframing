@@ -121,6 +121,32 @@ In a booking system project, a wireframe showing the checkout process allows des
 
 **Example:**  
 A wireframe of the booking search page helps ensure the product owner, designer, and developer agree on elements like filters, search fields, and result layout before coding starts.
+## Real-World Scenario: Wireframing Identifying Usability Issues
+
+During the design phase of a **property booking system**, wireframing helped the team uncover a critical usability issue:  
+👉 The original wireframe for the checkout page placed the payment form before the booking summary, forcing users to enter payment details without first confirming the details of their booking (dates, price, property name).
+
+### How the Issue Was Resolved
+- The wireframe was quickly adjusted to reorder the elements, placing the **booking summary** at the top and the **payment form** beneath it.
+- Additional wireframes were created to show a confirmation step before final payment submission.
+- Stakeholders and test users reviewed the updated wireframes and agreed that the new flow was clearer and more intuitive.
+
+### Impact on the Final Product
+- The updated structure reduced user errors during checkout and improved satisfaction scores during user testing.
+- Development time was saved because the issue was caught early, avoiding costly changes during the coding phase.
+- The team built confidence in the product’s usability before development even began.
+
+---
+
+### Conclusion: The Role of Wireframing in User-Friendly Design
+
+This scenario illustrates how wireframing:
+- Enables teams to spot and resolve usability challenges at the planning stage.
+- Promotes collaboration and shared understanding between designers, developers, and stakeholders.
+- Helps deliver a product that meets user needs efficiently by providing a solid, user-focused foundation for development.
+
+Wireframing remains an essential tool for creating intuitive, user-friendly software systems.
+
 
 
 
