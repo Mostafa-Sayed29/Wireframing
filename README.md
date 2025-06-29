@@ -46,6 +46,36 @@ Outlines how interactive components work, such as buttons, forms, and filters. I
 
 **Example:**  
 A search results wireframe may include filter options (e.g., price range, location) on the left panel with real-time results updating on the right.
+## Types of Wireframes
+
+Wireframes come in different levels of detail, depending on the stage of the design process and the goals of the team. The two main types are:
+
+### 📝 Low-Fidelity Wireframes
+Low-fidelity wireframes are basic, simplified sketches that focus on layout, structure, and content hierarchy. They avoid design details such as colors, typography, and images.
+
+**When to use:**  
+- Early in the design process for brainstorming and exploring ideas.  
+- When gathering stakeholder feedback on layout and functionality without distraction from styling.  
+- To quickly iterate and experiment with different structures.
+
+---
+
+### 🎨 High-Fidelity Wireframes
+High-fidelity wireframes are more detailed and refined. They often include specific typography, spacing, icons, and placeholders for images. Some may even include limited interactivity.
+
+**When to use:**  
+- Later in the design process, when preparing for prototyping or development.  
+- When validating detailed UI elements and user flows.  
+- To communicate the final look and behavior of components to developers.
+
+---
+
+## What Type of Wireframe Is Here?
+
+The wireframes created for this project are **low-fidelity wireframes**.  
+👉 They focus on the basic structure and layout without visual styling, color schemes, or detailed graphics.  
+👉 The goal is to concentrate on user flows, content placement, and functionality before moving on to high-fidelity designs or prototypes.
+
 
 
 
